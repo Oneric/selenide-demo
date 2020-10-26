@@ -1,4 +1,4 @@
-# Auto tests demo project
+# Auto tests Selenide demo project
 
 1. Открыть проект с помощью IntelliJ IDEA
 2. Открыть панель Maven 
